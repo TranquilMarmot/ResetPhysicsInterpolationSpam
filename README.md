@@ -1,4 +1,4 @@
-# Minimal reproduction project (MRP) for Godot issue
+# Minimal reproduction project for https://github.com/godotengine/godot/issues/101665
 
 Run the game and hit Escape to pause/unpause the scene.
 
